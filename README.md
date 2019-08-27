@@ -17,3 +17,13 @@ Parts Used:
 
 
 ![Screen Shot 2019-08-27 at 4 44 37 PM](https://user-images.githubusercontent.com/14288989/63766996-0a2af280-c8ea-11e9-9535-bdb44c931a9b.png)
+
+
+Some of my Arduino connected to the Rotary Encoder are shown below :
+
+![20190827_165229](https://user-images.githubusercontent.com/14288989/63767594-b91bfe00-c8eb-11e9-815a-739e19ae6486.jpg)
+
+![20190827_165317](https://user-images.githubusercontent.com/14288989/63767595-b91bfe00-c8eb-11e9-8353-4544a44e778b.jpg)
+
+![20190827_165332](https://user-images.githubusercontent.com/14288989/63767596-b9b49480-c8eb-11e9-87fa-872b80be9e46.jpg)
+
